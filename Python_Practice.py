@@ -266,7 +266,7 @@ num = num + 1
 num += 1
 print(num)
 
-# 7장
+"""# 7장"""
 
 True
 
